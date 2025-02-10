@@ -78,9 +78,7 @@ function NavBar() {
               </a>
             </div>
 
-            <button className="vvd">
-              <span>Let’s Connect</span>
-            </button>
+    
           </span>
         </Navbar.Collapse>
       </Container>
